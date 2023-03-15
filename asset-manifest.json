@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PhotoGallery/static/css/main.4aa3e041.css",
+    "main.css": "/PhotoGallery/static/css/main.2fa8f3dd.css",
     "main.js": "/PhotoGallery/static/js/main.2f80e4f4.js",
     "static/media/neel2.jpg": "/PhotoGallery/static/media/neel2.44fb30de8f04b7e4f4f2.jpg",
     "static/media/img11.jpg": "/PhotoGallery/static/media/img11.85cbea66ad6f523d289e.jpg",
@@ -15,11 +15,11 @@
     "static/media/img9.jpg": "/PhotoGallery/static/media/img9.ac4be5d93f247ced35d4.jpg",
     "static/media/img10.jpg": "/PhotoGallery/static/media/img10.b91f8a47f848f34840a2.jpg",
     "index.html": "/PhotoGallery/index.html",
-    "main.4aa3e041.css.map": "/PhotoGallery/static/css/main.4aa3e041.css.map",
+    "main.2fa8f3dd.css.map": "/PhotoGallery/static/css/main.2fa8f3dd.css.map",
     "main.2f80e4f4.js.map": "/PhotoGallery/static/js/main.2f80e4f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa3e041.css",
+    "static/css/main.2fa8f3dd.css",
     "static/js/main.2f80e4f4.js"
   ]
 }
